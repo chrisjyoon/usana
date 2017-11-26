@@ -2,6 +2,13 @@
 
 ### 2017/11/26
 
+#### Full version
+- version name : 1.0.30
+- version code : 41
+#### Calculator version
+- version name : 1.0.30
+- version code : 44
+
 - database update
 
 ```markdown
