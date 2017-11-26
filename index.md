@@ -2,10 +2,11 @@
 
 ### 2017/11/26
 
-#### Full version
+[Full version]
 - version name : 1.0.30
 - version code : 41
-#### Calculator version
+
+[Calculator version]
 - version name : 1.0.30
 - version code : 44
 
